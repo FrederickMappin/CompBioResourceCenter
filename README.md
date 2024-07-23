@@ -20,6 +20,7 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 ## CRISPR Technology 
 [crispor](http://crispor.gi.ucsc.edu) - a program that helps design, evaluate and clone guide sequences for the CRISPR/Cas9 system
 
+## Design of Experiments (DOE) 
 
 ## Genomic/DNA 
 
