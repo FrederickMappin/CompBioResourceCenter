@@ -10,7 +10,7 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 [google colab](https://colab.research.google.com) 
 
 # Containers
-[docker-builds](https://github.com/StaPH-B/docker-builds)
+[docker-builds](https://github.com/StaPH-B/docker-builds) \
 [seqera containers](https://seqera.io/containers/)
 # Pipeline Repos
 [Awesome Nextflow](https://github.com/nextflow-io/awesome-nextflow) - A curated list of Nextflow pipelines \
