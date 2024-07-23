@@ -5,7 +5,7 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 
 
 
-# Cloud Computing
+# Free Cloud Computing Resources
 [gitpod](https://www.gitpod.io) - \
 [google colab](https://colab.research.google.com) 
 
