@@ -4,3 +4,6 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 
 
 [GitHub](https://github.com)
+
+# Pipelines 
+[Awesome Nextflow](https://github.com/nextflow-io/awesome-nextflow)
