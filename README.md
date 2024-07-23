@@ -12,7 +12,7 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 # Pipeline Repos
 [Awesome Nextflow](https://github.com/nextflow-io/awesome-nextflow) - A curated list of Nextflow pipelines \
 [nf-core](https://nf-co.re/pipelines) - pipelines that are currently available as part of nf-core \
-[IARC pipelines](https://github.com/IARCbioinfo/IARC-nf) 
+[IARC pipelines](https://github.com/IARCbioinfo/IARC-nf) -International Agency for Research on Cancer bioinformatics platform pipelines
 
 ## CRISPR Technology 
 [crispor](http://crispor.gi.ucsc.edu) - a program that helps design, evaluate and clone guide sequences for the CRISPR/Cas9 system
