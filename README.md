@@ -9,7 +9,7 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 [gitpod](https://www.gitpod.io) - \
 [google colab](https://colab.research.google.com) 
 
-# Pipelines 
+# Pipeline Repos
 [Awesome Nextflow](https://github.com/nextflow-io/awesome-nextflow) - A curated list of Nextflow pipelines \
 [nf-core](https://nf-co.re/pipelines) - pipelines that are currently available as part of nf-core 
 
