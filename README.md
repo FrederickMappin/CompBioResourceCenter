@@ -22,6 +22,8 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 
 ## Design of Experiments (DOE)
 
+## Data Wrangling
+[iSeq](https://github.com/BioOmics/iSeq?tab=readme-ov-file) -iSeq is a Bash script that allows you to download sequencing data and metadata from GSA, SRA, ENA, and DDBJ databases.
 ## Genomic/DNA 
 
 ## Transcriptomic/RNA
