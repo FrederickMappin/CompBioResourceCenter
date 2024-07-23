@@ -19,6 +19,8 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 
 ## CRISPR Technology 
 [crispor](http://crispor.gi.ucsc.edu) - a program that helps design, evaluate and clone guide sequences for the CRISPR/Cas9 system
+[Tide](http://shinyapps.datacurators.nl/tide/) - For non-templated Cas9 editing
+[Tider](http://shinyapps.datacurators.nl/tider/) - For template-directed Cas9 editing
 
 ## Design of Experiments (DOE)
 
