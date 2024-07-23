@@ -31,7 +31,8 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 ## Transcriptomic/RNA
 [DEBrowser](https://www.bioconductor.org/packages/release/bioc/vignettes/debrowser/inst/doc/DEBrowser.html) -
 
-## Proteomic/Protein
+## Proteomic/Protein=
+[colabfold](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)- Coupled with Google Colaboratory, ColabFold becomes a free and accessible platform for protein folding
 
 ## Epigenomic/Epigenome
 
