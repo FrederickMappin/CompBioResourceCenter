@@ -9,5 +9,5 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 [Awesome Nextflow](https://github.com/nextflow-io/awesome-nextflow) - A curated list of Nextflow pipelines \
 [nf-core](https://nf-co.re/pipelines) - pipelines that are currently available as part of nf-core 
 
-# Crispr technology 
+# CRISPR Technology 
 [crispor](http://crispor.gi.ucsc.edu) - a program that helps design, evaluate and clone guide sequences for the CRISPR/Cas9 system
