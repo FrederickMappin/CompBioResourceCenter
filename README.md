@@ -36,9 +36,11 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 [DEBrowser](https://www.bioconductor.org/packages/release/bioc/vignettes/debrowser/inst/doc/DEBrowser.html) -
 
 ## Proteomic/Protein
-[colabfold](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)- Coupled with Google Colaboratory, ColabFold becomes a free and accessible platform for protein folding
 
+[alphafold](https://alphafold.ebi.ac.uk/) - AlphaFold DB provides open access to over 200 million protein structure predictions to accelerate scientific research. \
+[colabfold](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)- Coupled with Google Colaboratory, ColabFold becomes a free and accessible platform for protein folding \
 [Foldseek](https://search.foldseek.com/search) - Server offers fast and sensitive protein structure alignments against large protein structure collections.
+
 ## Epigenomic/Epigenome
 
 ## Cheminformatics
