@@ -38,6 +38,7 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 ## Proteomic/Protein
 [colabfold](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)- Coupled with Google Colaboratory, ColabFold becomes a free and accessible platform for protein folding
 
-[Foldseek](https://search.foldseek.com/search)## Epigenomic/Epigenome
+[Foldseek](https://search.foldseek.com/search) - Server offers fast and sensitive protein structure alignments against large protein structure collections.
+## Epigenomic/Epigenome
 
 ## Cheminformatics
