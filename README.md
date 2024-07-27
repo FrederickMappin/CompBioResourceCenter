@@ -11,7 +11,8 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 [kaggle](https://www.kaggle.com/) - Kaggle is the world's largest data science community with powerful tools and resources to help you achieve your data science goals. 
 
 ## Containers
-[docker-builds](https://github.com/StaPH-B/docker-builds) - repository contains the Dockerfiles and other assorted files necessary for building Docker images for a variety of programs[seqera containers](https://seqera.io/containers/) - on-demand cointainers built \
+[docker-builds](https://github.com/StaPH-B/docker-builds) - repository contains the Dockerfiles and other assorted files necessary for building Docker images for a variety of programs \
+[seqera containers](https://seqera.io/containers/) - on-demand cointainers built \
 ## Pipeline Repos
 [Awesome Nextflow](https://github.com/nextflow-io/awesome-nextflow) - A curated list of Nextflow pipelines \
 [nf-core](https://nf-co.re/pipelines) - pipelines that are currently available as part of nf-core \
