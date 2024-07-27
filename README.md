@@ -12,7 +12,7 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 
 ## Containers
 [docker-builds](https://github.com/StaPH-B/docker-builds) - repository contains the Dockerfiles and other assorted files necessary for building Docker images for a variety of programs \
-[seqera containers](https://seqera.io/containers/) - on-demand cointainers built \
+[seqera containers](https://seqera.io/containers/) - on-demand cointainers built 
 ## Pipeline Repos
 [Awesome Nextflow](https://github.com/nextflow-io/awesome-nextflow) - A curated list of Nextflow pipelines \
 [nf-core](https://nf-co.re/pipelines) - pipelines that are currently available as part of nf-core \
