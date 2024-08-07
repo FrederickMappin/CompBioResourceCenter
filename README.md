@@ -43,7 +43,8 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 [colabfold](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)- Coupled with Google Colaboratory, ColabFold becomes a free and accessible platform for protein folding \
 [Foldseek](https://search.foldseek.com/search) - Server offers fast and sensitive protein structure alignments against large protein structure collections.
 [protein-design tools repo](https://design.adaptyvbio.com/tools) -adaptvbio repo of protein design tools
-[Protein-Ligand Binding Database](https://plbd.org/db/)
+[Protein-Ligand Binding Database](https://plbd.org/db/)- The PLBD contains thermodynamic and kinetic data describing protein‑small molecule compound (ligand) interactions. 
+
 ## Epigenomic/Epigenome
 
 
