@@ -32,7 +32,7 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 ## Data Wrangling
 [iSeq](https://github.com/BioOmics/iSeq?tab=readme-ov-file) -iSeq is a Bash script that allows you to download sequencing data and metadata from GSA, SRA, ENA, and DDBJ databases.
 
-[Gwakj](https://github.com/Kanaries/GWalkR?tab=readme-ov-file)- data visualization tool in R 
+[Gwak](https://github.com/Kanaries/GWalkR?tab=readme-ov-file)- data visualization tool in R 
 ## Genomic/DNA 
 
 ## Transcriptomic/RNA
