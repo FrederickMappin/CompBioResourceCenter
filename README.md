@@ -44,7 +44,7 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 [Foldseek](https://search.foldseek.com/search) - Server offers fast and sensitive protein structure alignments against large protein structure collections. \
 [protein-design tools repo](https://design.adaptyvbio.com/tools) -adaptvbio repo of protein design tools \
 [Protein-Ligand Binding Database](https://plbd.org/db/)- The PLBD contains thermodynamic and kinetic data describing protein‑small molecule compound (ligand) interactions. 
-[nuerosnap repo](https://neurosnap.ai/services) - repo for list of protein folding tools
+[nuerosnap repo](https://neurosnap.ai/services) - repo for list of protein folding tools \
 ## Epigenomic/Epigenome
 
 
