@@ -45,6 +45,9 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 [protein-design tools repo](https://design.adaptyvbio.com/tools) -adaptvbio repo of protein design tools \
 [Protein-Ligand Binding Database](https://plbd.org/db/)- The PLBD contains thermodynamic and kinetic data describing protein‑small molecule compound (ligand) interactions. \
 [nuerosnap repo](https://neurosnap.ai/services) - repo for list of protein folding tools \
+
+[RoseTTAFold2NA](https://app.superbio.ai/apps/668c0b4c5a3d67435cdebf64)- RoseTTAFold2NA is an advanced computational tool developed to predict the structures of protein/nucleic acid complexes with high accuracy
+
 ## Epigenomic/Epigenome
 
 
