@@ -36,7 +36,9 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 ## Genomic/DNA 
 
 ## Transcriptomic/RNA
-[DEBrowser](https://www.bioconductor.org/packages/release/bioc/vignettes/debrowser/inst/doc/DEBrowser.html) - Interactive Differential Expression Analysis Tool
+[DEBrowser](https://www.bioconductor.org/packages/release/bioc/vignettes/debrowser/inst/doc/DEBrowser.html) - Interactive Differential Expression Analysis Tool.
+
+[GO analysis](https://github.com/evanpeikon/functional_enrichment_analysis)  
 ## Proteomic/Protein
 
 [alphafold](https://alphafold.ebi.ac.uk/) - AlphaFold DB provides open access to over 200 million protein structure predictions to accelerate scientific research. \
