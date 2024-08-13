@@ -57,3 +57,6 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 
 ## Drug Design
 [polaris](https://polaris-hub.github.io/polaris/stable/)
+
+## AI
+[Huggingface](https://huggingface.co/)
