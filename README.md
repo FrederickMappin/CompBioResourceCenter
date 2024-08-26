@@ -43,7 +43,7 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 
 [alphafold](https://alphafold.ebi.ac.uk/) - AlphaFold DB provides open access to over 200 million protein structure predictions to accelerate scientific research. \
 [colabfold](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)- Coupled with Google Colaboratory, ColabFold becomes a free and accessible platform for protein folding \
-[cfold](https://colab.research.google.com/github/patrickbryant1/Cfold/blob/master/Cfold.ipynb) -contains a pipeline for predicting alternative conformations of protein structures.
+[cfold](https://colab.research.google.com/github/patrickbryant1/Cfold/blob/master/Cfold.ipynb) -contains a pipeline for predicting alternative conformations of protein structures. \
 [Foldseek](https://search.foldseek.com/search) - Server offers fast and sensitive protein structure alignments against large protein structure collections. \
 [protein-design tools repo](https://design.adaptyvbio.com/tools) -adaptvbio repo of protein design tools \
 [Protein-Ligand Binding Database](https://plbd.org/db/)- The PLBD contains thermodynamic and kinetic data describing protein‑small molecule compound (ligand) interactions. \
