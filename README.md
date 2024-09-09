@@ -56,7 +56,8 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 
 ## Cheminformatics
 
-## Drug Design
+[RDKIT](https://www.rdkit.org/)
+[OECHEM](https://docs.eyesopen.com/toolkits/python/oechemtk/index.html)
 [polaris](https://polaris-hub.github.io/polaris/stable/)
 
 ## AI
