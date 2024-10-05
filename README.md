@@ -65,3 +65,5 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 [Huggingface](https://huggingface.co/)
 
 [State-of-the-Art ](https://paperswithcode.com/sota)
+
+[PyHub](https://pytorch.org/hub/)
