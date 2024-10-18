@@ -53,7 +53,7 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 [RoseTTAFold2NA](https://app.superbio.ai/apps/668c0b4c5a3d67435cdebf64)- RoseTTAFold2NA is an advanced computational tool developed to predict the structures of protein/nucleic acid complexes with high accuracy
 
 [Chroma](https://github.com/generatebio/chroma)-chroma is a generative model for designing proteins programmatically.## Epigenomic/Epigenome
-[Uni-Fold](https://github.com/dptech-corp/Uni-Fold)-Alphafold in pytorch framework
+[UniFold](https://github.com/dptech-corp/Uni-Fold)-Alphafold in pytorch framework
 
 ## Cheminformatics
 
