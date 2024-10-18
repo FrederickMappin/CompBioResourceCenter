@@ -61,9 +61,3 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 [OECHEM](https://docs.eyesopen.com/toolkits/python/oechemtk/index.html)
 [polaris](https://polaris-hub.github.io/polaris/stable/)
 
-## AI
-[Huggingface](https://huggingface.co/)
-
-[State-of-the-Art ](https://paperswithcode.com/sota)
-
-[PyHub](https://pytorch.org/hub/)
