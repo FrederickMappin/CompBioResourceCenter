@@ -55,6 +55,8 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 [Chroma](https://github.com/generatebio/chroma)-chroma is a generative model for designing proteins programmatically.## Epigenomic/Epigenome
 [UniFold](https://github.com/dptech-corp/Uni-Fold)-Alphafold in pytorch framework
 
+# Protein Interaction
+[Protein Interaction](https://pioneer.yulab.org/)
 ## Cheminformatics
 
 [RDKIT](https://www.rdkit.org/)
