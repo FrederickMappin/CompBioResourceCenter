@@ -41,6 +41,8 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 [ShinyGo](http://bioinformatics.sdstate.edu/go/)[GO analysis](https://github.com/evanpeikon/functional_enrichment_analysis)  
 ## Proteomic/Protein
 
+[bolt] (https://github.com/jwohlwend/boltz)
+
 [alphafold](https://alphafold.ebi.ac.uk/) - AlphaFold DB provides open access to over 200 million protein structure predictions to accelerate scientific research. \
 [colabfold](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)- Coupled with Google Colaboratory, ColabFold becomes a free and accessible platform for protein folding \
 [cfold](https://colab.research.google.com/github/patrickbryant1/Cfold/blob/master/Cfold.ipynb) -contains a pipeline for predicting alternative conformations of protein structures. \
