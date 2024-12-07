@@ -51,7 +51,7 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 [Protein-Ligand Binding Database](https://plbd.org/db/)- The PLBD contains thermodynamic and kinetic data describing protein‑small molecule compound (ligand) interactions. \
 [nuerosnap repo](https://neurosnap.ai/services) - repo for list of protein folding tools \
 [chaidiscovery](https://www.chaidiscovery.com/blog/introducing-chai-1)
-
+[EvolvePro](https://github.com/mat10d/EvolvePro)
 [DeepMutationalScanning]https://huggingface.co/spaces/thaidaev/zsp
 
 
