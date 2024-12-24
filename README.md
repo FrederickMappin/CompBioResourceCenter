@@ -63,6 +63,7 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 # Protein Interaction
 [Protein Interaction](https://pioneer.yulab.org/)- PIONEER: Generating whole-proteome human interactome using deep learning
 ## Cheminformatics
+[SwissDrugSuite](http://www.swisstargetprediction.ch/)
 
 [RDKIT](https://www.rdkit.org/)
 [OECHEM](https://docs.eyesopen.com/toolkits/python/oechemtk/index.html)
