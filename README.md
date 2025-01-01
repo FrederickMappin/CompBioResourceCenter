@@ -65,8 +65,7 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 [Protein Interaction](https://pioneer.yulab.org/)- PIONEER: Generating whole-proteome human interactome using deep learning
 ## Cheminformatics
 [SwissDrugSuite](http://www.swisstargetprediction.ch/) -suite of drug tools 
-
-[RDKIT](https://www.rdkit.org/)
+[SyntheMol: Generative AI for Drug Discovery](https://github.com/swansonk14/SyntheMol?tab=readme-ov-file)[RDKIT](https://www.rdkit.org/)
 [OECHEM](https://docs.eyesopen.com/toolkits/python/oechemtk/index.html)
 [polaris](https://polaris-hub.github.io/polaris/stable/)
 
