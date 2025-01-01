@@ -64,7 +64,7 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 ## Cheminformatics
 [SwissDrugSuite](http://www.swisstargetprediction.ch/) -suite of drug tools 
 [SyntheMol](https://github.com/swansonk14/SyntheMol?tab=readme-ov-file)- Generative AI for Drug Discovery
-[RDKIT](https://www.rdkit.org/)
-[OECHEM](https://docs.eyesopen.com/toolkits/python/oechemtk/index.html)
-[polaris](https://polaris-hub.github.io/polaris/stable/)
-[DiffSBDD](https://github.com/arneschneuing/DiffSBDD)-Structure-based Drug Design with Equivariant Diffusion Models
+[RDKIT](https://www.rdkit.org/) \
+[OECHEM](https://docs.eyesopen.com/toolkits/python/oechemtk/index.html) \
+[polaris](https://polaris-hub.github.io/polaris/stable/) \
+[DiffSBDD](https://github.com/arneschneuing/DiffSBDD)-Structure-based Drug Design with Equivariant Diffusion Models \
