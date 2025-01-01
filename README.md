@@ -67,4 +67,4 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 [RDKIT](https://www.rdkit.org/)
 [OECHEM](https://docs.eyesopen.com/toolkits/python/oechemtk/index.html)
 [polaris](https://polaris-hub.github.io/polaris/stable/)
-
+[DiffSBDD](https://github.com/arneschneuing/DiffSBDD)-Structure-based Drug Design with Equivariant Diffusion Models
