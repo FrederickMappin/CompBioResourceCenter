@@ -65,6 +65,9 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 ### ADMET
 [SwissDrugSuite](http://www.swisstargetprediction.ch/) -suite of drug tools   \
 [admetlab](https://admetlab3.scbdd.com/)- admet data  \
+[admet-ai](https://github.com/swansonk14/admet_ai)
+
+### Chemoinformatics
 [SyntheMol](https://github.com/swansonk14/SyntheMol?tab=readme-ov-file)- Generative AI for Drug Discovery  \
 [RDKIT](https://www.rdkit.org/) \
 [OECHEM](https://docs.eyesopen.com/toolkits/python/oechemtk/index.html) \
