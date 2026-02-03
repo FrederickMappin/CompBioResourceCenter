@@ -52,6 +52,7 @@ Welcome to the Computational Biology Resources Read Me! In this curated collecti
 [EvolvePro](https://github.com/mat10d/EvolvePro)
 [DeepMutationalScanning]https://huggingface.co/spaces/thaidaev/zsp
 
+[FoldMason](https://github.com/steineggerlab/foldmason)
 
 [RoseTTAFold2NA](https://app.superbio.ai/apps/668c0b4c5a3d67435cdebf64)- RoseTTAFold2NA is an advanced computational tool developed to predict the structures of protein/nucleic acid complexes with high accuracy
 
